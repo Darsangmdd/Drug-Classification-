@@ -7,3 +7,4 @@
 4. Naive Bayes Classification 
 5. Decision Tree Classification 
 6. Random Forest Classification 
+7. Artifical Neural Networks 
